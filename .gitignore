@@ -1,0 +1,7 @@
+node_modules/*
+
+config/config.env
+
+.github/
+__tests__/
+autograde.js
